@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f8f5ff;
+}
+
+.container {
+    background-color: white;
+    padding: 2.5rem;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    max-width: 600px;
+    width: 90%;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    text-align: center;
+    color: #6b5b95;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.instructions {
+    color: #9088a8;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 0.95rem;
+}
+
+#sentence-container {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    margin: 2.5rem 0;
+    text-align: center;
+    color: #484258;
+}
+
+.word {
+    padding: 0.3rem 0.5rem;
+    margin: 0 0.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.word:hover {
+    background-color: #f0ebff;
+}
+
+#correction-box {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+#correction-input {
+    padding: 0.8rem 1rem;
+    font-size: 1rem;
+    margin-right: 0.8rem;
+    border: 2px solid #e8e5f0;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    transition: border-color 0.3s ease;
+}
+
+#correction-input:focus {
+    outline: none;
+    border-color: #b5aed4;
+}
+
+.button-container {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.button-container button {
+    margin: 0 0.2rem;
+}
+
+button {
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    background-color: #b5aed4;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button:hover {
+    background-color: #9f97c1;
+    transform: translateY(-2px);
+}
+
+.hidden {
+    display: none;
+}
+
+#feedback {
+    text-align: center;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 0.95rem;
+}
+
+.correct {
+    background-color: #e8f5e9;
+    color: #4caf50;
+}
+
+.incorrect {
+    background-color: #ffeaea;
+    color: #ff5252;
+}
+
+.counter {
+    text-align: center;
+    color: #6b5b95;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+}
+
+#counter {
+    color: #b5aed4;
+    font-weight: 600;
+}
+
+.footer {
+    color: #9088a8;
+    font-size: 0.85rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}

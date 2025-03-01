@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Spot the Mistake</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Spot the Mistake</h1>
+        <div class="counter">Corrected: <span id="counter">0</span> </div>
+        <p class="instructions">Find and click on the incorrect word in the sentence below:</p>
+        <div id="sentence-container"></div>
+        
+        <div id="correction-box" class="hidden">
+            <input type="text" id="correction-input" placeholder="Enter the correct word">
+            <div class="button-container">
+                <button id="submit-correction">Check Answer</button>
+                <button id="next-sentence" class="hidden">Next Sentence</button>
+            </div>
+        </div>
+        
+        <div id="feedback" class="hidden"></div>
+        
+    </div>
+    <div class="footer">
+        Author: Aaron Shi. Released in March 2025.
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
