@@ -438,6 +438,191 @@ const sentences = [
         text: "She don't want to go.",
         mistake: "don't",
         correct: "doesn't"
+    },
+    {
+        text: "There was a lorge painting of his father on the wall.",
+        mistake: "lorge",
+        correct: "large"
+    },
+    {
+        text: "Can you help me hanging this painting?",
+        mistake: "hanging",
+        correct: "hang"
+    },
+    {
+        text: "He married Ann, doughter of John Newton, owner of a painting and decorating firm.",
+        mistake: "doughter",
+        correct: "daughter"
+    },
+    {
+        text: "I alway regret those paintings very much.",
+        mistake: "alway",
+        correct: "always"
+    },
+    {
+        text: " An office must know some chemistry and biology, and the local geology and geography.",
+        mistake: "office",
+        correct: "officer"
+    },
+    {
+        text: "The book including a chronology of his life and works.",
+        mistake: "including",
+        correct: "includes"
+    },
+    {
+        text: "It is inportant to establish the chronology of the events.",
+        mistake: "inportant",
+        correct: "important"
+    },
+    {
+        text: "Most home buyers take in a loan.",
+        mistake: "in",
+        correct: "out"
+    },
+    {
+        text: "You can prepay the loan early without a penalty.",
+        mistake: "prepay",
+        correct: "repay"
+    },
+    {
+        text: "Banks are caution about making new loans.",
+        mistake: "caution",
+        correct: "cautious"
+    },
+    {
+        text: "Have you any others questions?",
+        mistake: "others",
+        correct: "other"
+    },
+    {
+        text: "The guests included, among other, Elizabeth Taylor and Michael Jackson.",
+        mistake: "other",
+        correct: "others"
+    },
+    {
+        text: "Here's one sock, but where's an other one?",
+        mistake: "an",
+        correct: "the"
+    },
+    {
+        text: "Rabbits made good pets.",
+        mistake: "made",
+        correct: "make"
+    },
+    {
+        text: "Cats and other domestical pets give their owners a lot of pleasure.",
+        mistake: "domestical",
+        correct: "domestic"
+    },
+    {
+        text: "It’s easier to get to the college if you had your own transport",
+        mistake: "had",
+        correct: "have"
+    },
+    {
+        text: "I prefer public transports when going to work",
+        mistake: "transports",
+        correct: "transport"
+    },
+    {
+        text: "Horses were the only mean of transport.",
+        mistake: "mean",
+        correct: "means"
+    },
+    {
+        text: "He can’t stand cruelty of animals of any sort.",
+        mistake: "of",
+        correct: "to"
+    },
+    {
+        text: "Man is a high intelligent animal.",
+        mistake: "high",
+        correct: "highly"
+    },
+    {
+        text: "Joyce thought this last remark was humor.",
+        mistake: "humor",
+        correct: "humorous"
+    },
+    {
+        text: "His absense was noted by the teacher.",
+        mistake: "absense",
+        correct: "absence"
+    },
+    {
+        text: "I needed money, and they accomodated me with a loan.",
+        mistake: "accomodated",
+        correct: "accommodated"
+    },
+    {
+        text: "They basicly play zone defense.",
+        mistake: "basicly",
+        correct: "basically"
+    },
+      {
+        text: "In this class, you will learn the basical principles of chemistry.",
+        mistake: "basical",
+        correct: "basic"
+    },
+    {
+        text: "Very few people suceed in losing weight and keeping it off.",
+        mistake: "suceed",
+        correct: "succeed"
+    },
+    {
+        text: "We tried rebooted the computer, but that didn’t work.",
+        mistake: "rebooted",
+        correct: "rebooting"
+    },
+    {
+        text: "I eat brocolis every day.",
+        mistake: "brocolis",
+        correct: "broccolis"
+    },
+    {
+        text: "I hate to see zuchini in my meals.",
+        mistake: "zuchini",
+        correct: "zucchini"
+    },
+    {
+        text: "In the military section of the cemetary, Ukrainian flags flew over every headstone.",
+        mistake: "cemetary",
+        correct: "cemetery"
+    },
+    {
+        text: "A stationery bicycle is good for exercise.",
+        mistake: "stationery",
+        correct: "stationary"
+    },
+    {
+        text: "There are many stationary stores in Taiwan.",
+        mistake: "stationary",
+        correct: "stationery"
+    },
+    {
+        text: "The professor's explaination was that the poem is really a parody.",
+        mistake: "explaination",
+        correct: "explanation"
+    },
+    {
+        text: "The bill was sent back to comittee yesterday.",
+        mistake: "comittee",
+        correct: "committee"
+    },
+    {
+        text: "There was little consansus at the conference.",
+        mistake: "consansus",
+        correct: "consensus"
+    },
+    {
+        text: " In traditional fairy tails, the hero is rewarded and the enemy punished.",
+        mistake: "tails",
+        correct: "tales"
+    },
+    {
+        text: "I sat back against a pine-stem and became lost in the pamflet yesterday.",
+        mistake: "pamflet",
+        correct: "pamphlet"
     }
 ];
 
