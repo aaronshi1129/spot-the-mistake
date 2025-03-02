@@ -1,21 +1,21 @@
 const sentences = [
     {
-        text: "She have been working here for five years",
+        text: "She have been working here for five years.",
         mistake: "have",
         correct: "has"
     },
     {
-        text: "The children was playing in the park",
+        text: "The children was playing in the park.",
         mistake: "was",
         correct: "were"
     },
     {
-        text: "He writed a letter to his friend",
+        text: "He writed a letter to his friend.",
         mistake: "writed",
         correct: "wrote"
     },
     {
-        text: "They are going to went to the movies",
+        text: "They are going to went to the movies.",
         mistake: "went",
         correct: "go"
     },
@@ -103,11 +103,6 @@ const sentences = [
         text: "They is going to the party.",
         mistake: "is",
         correct: "are"
-    },
-    {
-        text: "I can't hardly wait for the trip.",
-        mistake: "hardly",
-        correct: ""
     },
     {
         text: "I red the book yesterday.",
@@ -218,6 +213,231 @@ const sentences = [
         text: "The dog chased it's tail around.",
         mistake: "it's",
         correct: "its"
+    },
+    {
+        text: "He don't like pizza.",
+        mistake: "don't",
+        correct: "doesn't"
+    },
+    {
+        text: "We was waiting for the bus.",
+        mistake: "was",
+        correct: "were"
+    },
+    {
+        text: "Their going to the mall later.",
+        mistake: "Their",
+        correct: "They're"
+    },
+    {
+        text: "She sing very well.",
+        mistake: "sing",
+        correct: "sings"
+    },
+    {
+        text: "I have went to the store.",
+        mistake: "went",
+        correct: "gone"
+    },
+    {
+        text: "The movie was to long.",
+        mistake: "to",
+        correct: "too"
+    },
+    {
+        text: "He should of called earlier.",
+        mistake: "of",
+        correct: "have"
+    },
+    {
+        text: "Your the best friend I have.",
+        mistake: "Your",
+        correct: "You're"
+    },
+    {
+        text: "They has finished their homework.",
+        mistake: "has",
+        correct: "have"
+    },
+    {
+        text: "She didn't knew the answer.",
+        mistake: "knew",
+        correct: "know"
+    },
+    {
+        text: "Its a beautiful day.",
+        mistake: "Its",
+        correct: "It's"
+    },
+    {
+        text: "I seen him yesterday.",
+        mistake: "seen",
+        correct: "saw"
+    },
+    {
+        text: "They're going too the beach.",
+        mistake: "too",
+        correct: "to"
+    },
+    {
+        text: "She don't know the answer.",
+        mistake: "don't",
+        correct: "doesn't"
+    },
+    {
+        text: "We was very tired.",
+        mistake: "was",
+        correct: "were"
+    },
+    {
+        text: "There going to the concert.",
+        mistake: "There",
+        correct: "They're"
+    },
+    {
+        text: "He has wrote three books.",
+        mistake: "wrote",
+        correct: "written"
+    },
+    {
+        text: "Could you borrow me some money?",
+        mistake: "borrow",
+        correct: "lend"
+    },
+    {
+        text: "They're cat is very cute.",
+        mistake: "They're",
+        correct: "Their"
+    },
+    {
+        text: "He don't have a car.",
+        mistake: "don't",
+        correct: "doesn't"
+    },
+    {
+        text: "The dog wagged it's tail",
+        mistake: "it's",
+        correct: "its"
+    },
+    {
+        text: "We was going to the party.",
+        mistake: "was",
+        correct: "were"
+    },
+    {
+        text: "She has went to the market.",
+        mistake: "went",
+        correct: "gone"
+    },
+    {
+        text: "There coming over later.",
+        mistake: "There",
+        correct: "They're"
+    },
+    {
+        text: "He didn't saw the sign.",
+        mistake: "saw",
+        correct: "see"
+    },
+    {
+        text: "The cake was to sweet.",
+        mistake: "to",
+        correct: "too"
+    },
+    {
+        text: "He has broke his phone.",
+        mistake: "broke",
+        correct: "broken"
+    },
+    {
+        text: "Your welcome to join us.",
+        mistake: "Your",
+        correct: "You're"
+    },
+    {
+        text: "She has went to the store.",
+        mistake: "went",
+        correct: "gone"
+    },
+    {
+        text: "He was their last week.",
+        mistake: "their",
+        correct: "there"
+    },
+    {
+        text: "I didn't spoke to him yet.",
+        mistake: "spoke",
+        correct: "speak"
+    },
+    {
+        text: "The book is laying on the table.",
+        mistake: "laying",
+        correct: "lying"
+    },
+    {
+        text: "I haven't ate breakfast yet",
+        mistake: "ate",
+        correct: "eaten"
+    },
+    {
+        text: "Its going to rain tomorrow.",
+        mistake: "Its",
+        correct: "It's"
+    },
+    {
+        text: "I could of helped you.",
+        mistake: "of",
+        correct: "have"
+    },
+    {
+        text: "They're house is beautiful.",
+        mistake: "They're",
+        correct: "Their"
+    },
+    {
+        text: "He didn't went to school.",
+        mistake: "went",
+        correct: "go"
+    },
+    {
+        text: "The cat licked it's paw.",
+        mistake: "it's",
+        correct: "its"
+    },
+    {
+        text: "I seen that movie already.",
+        mistake: "seen",
+        correct: "saw"
+    },
+    {
+        text: "She was more smarter than him.",
+        mistake: "more",
+        correct: "much"
+    },
+    {
+        text: "Your going to love this movie.",
+        mistake: "Your",
+        correct: "You're"
+    },
+    {
+        text: "He has gave me the keys.",
+        mistake: "gave",
+        correct: "given"
+    },
+    {
+        text: "The team are playing well.",
+        mistake: "are",
+        correct: "is"
+    },
+    {
+        text: "I should of called you earlier.",
+        mistake: "of",
+        correct: "have"
+    },
+    {
+        text: "She don't want to go.",
+        mistake: "don't",
+        correct: "doesn't"
     }
 ];
 
