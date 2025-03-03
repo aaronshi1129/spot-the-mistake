@@ -615,7 +615,7 @@ const sentences = [
         correct: "consensus"
     },
     {
-        text: " In traditional fairy tails, the hero is rewarded and the enemy punished.",
+        text: " In traditional fairy tails , the hero is rewarded and the enemy punished.",
         mistake: "tails",
         correct: "tales"
     },
