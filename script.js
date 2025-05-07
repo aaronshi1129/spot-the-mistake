@@ -540,7 +540,7 @@ const sentences = [
         correct: "highly"
     },
     {
-        text: "Joyce thought this last remark was humor.",
+        text: "Joyce thought this last remark was humor",
         mistake: "humor",
         correct: "humorous"
     },
@@ -585,7 +585,7 @@ const sentences = [
         correct: "zucchini"
     },
     {
-        text: "In the military section of the cemetary, Ukrainian flags flew over every headstone.",
+        text: "In the military section of the cemetary , Ukrainian flags flew over every headstone .",
         mistake: "cemetary",
         correct: "cemetery"
     },
